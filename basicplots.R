@@ -10,3 +10,4 @@ str(mtcars)
 #create a scatterplot of mpg versus hp
 my_scatterplot<-ggplot(mtcars,aes(x = mpg, y = hp)) + geom_point()
 my_scatterplot
+
